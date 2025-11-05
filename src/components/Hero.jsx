@@ -14,7 +14,7 @@ export default function Hero() {
     <section className="relative w-full min-h-[90vh] flex items-center justify-center overflow-hidden bg-[#0B0B0C]">
       {/* 3D Scene */}
       <div className="absolute inset-0">
-        <Spline scene="https://prod.spline.design/41MGRk-UDPKO-l6W/scene.splinecode" style={{ width: '100%', height: '100%' }} />
+        <Spline scene="https://prod.spline.design/4Zh-Q6DWWp5yPnQf/scene.splinecode" style={{ width: '100%', height: '100%' }} />
       </div>
 
       {/* Soft gradient glow overlay (non-blocking) */}
@@ -33,7 +33,7 @@ export default function Hero() {
         </h1>
 
         <p className="mt-5 text-base md:text-lg text-white/70 max-w-3xl mx-auto">
-          Design invoices that reflect your brand’s personality — and automate them instantly with our API.
+          Design, automate, and deliver branded invoices with our visual designer and powerful API.
         </p>
 
         <div className="mt-8 flex flex-col sm:flex-row items-center justify-center gap-3">
